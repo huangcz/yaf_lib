@@ -1,0 +1,18 @@
+ERR: 1054:Unknown column 'usertype' in 'field list'
+ [ SQL语句 ] : INSERT INTO `dede_addonarticle` (`usertype`,`userid`,`pwd`,`uname`) VALUES ('10','YafTest','e10adc3949ba59abbe56e057f20f883e','YafTest')
+
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `dede_admin` (`usertype`,`userid`,`pwd`,`uname`) VALUES ('10','YafTest','e10adc3949ba59abbe56e057f20f883e','YafTest')
+
+ERR: 1062:Duplicate entry '2' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `dede_admin` (`id`,`usertype`,`userid`,`pwd`,`uname`) VALUES ('2','10','YafTest','e10adc3949ba59abbe56e057f20f883e','YafTest')
+
+ERR: 1062:Duplicate entry '2' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `dede_admin` (`id`,`usertype`,`userid`,`pwd`,`uname`) VALUES ('2','10','YafTest','e10adc3949ba59abbe56e057f20f883e','YafTest')
+
+ERR: 1062:Duplicate entry '2' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `dede_admin` (`id`,`usertype`,`userid`,`pwd`,`uname`) VALUES ('2','10','YafTest','e10adc3949ba59abbe56e057f20f883e','YafTest')
+
+ERR: 1062:Duplicate entry '2' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `dede_admin` (`id`,`usertype`,`userid`,`pwd`,`uname`) VALUES ('2','10','YafTest','e10adc3949ba59abbe56e057f20f883e','YafTest')
+
