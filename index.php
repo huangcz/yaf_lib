@@ -15,3 +15,5 @@ $app->getDispatcher()->throwException(FALSE);
 $app->getDispatcher()->setErrorHandler("errorHandler");
 
 $app->run();
+
+//test
